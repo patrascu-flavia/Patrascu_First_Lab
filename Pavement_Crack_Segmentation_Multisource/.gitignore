@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Large model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Dataset archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Raw datasets
+dataset/images/
+dataset/masks/
+raw_data/
+data/raw/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this dataset or the trained models, please cite the Zenodo record."
+title: "Multi-Source Pavement Crack Segmentation Dataset and Trained Deep Learning Models from Ground-Level and UAV Imagery"
+
+authors:
+  - family-names: "Imran"
+    given-names: "Chaudhry Abu Bakar"
+    affiliation: "Louisiana State University"
+
+  - family-names: "Patrascu"
+    given-names: "Flavia-Ioana"
+    affiliation: "Louisiana State University"
+
+version: "1.0.0"
+doi: "10.5281/zenodo.22697998"
+
+repository-code: "https://github.com/patrascu-flavia/Patrascu_First_Lab"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - pavement crack segmentation
+  - pavement inspection
+  - computer vision
+  - deep learning
+  - UAV imagery
+  - ground-level imagery
+  - U-Net
+  - U-Net++
+  - DeepLabV3+
+  - SegFormer
+  - transportation infrastructure
