@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or the trained models, please cite the Zenodo record."
+
 title: "Multi-Source Pavement Crack Segmentation Dataset and Trained Deep Learning Models from Ground-Level and UAV Imagery"
 
 authors:
@@ -12,6 +13,8 @@ authors:
     affiliation: "Louisiana State University"
 
 version: "1.0.0"
+date-released: 2026-09-10
+
 doi: "10.5281/zenodo.22697998"
 
 repository-code: "https://github.com/patrascu-flavia/Patrascu_First_Lab"
